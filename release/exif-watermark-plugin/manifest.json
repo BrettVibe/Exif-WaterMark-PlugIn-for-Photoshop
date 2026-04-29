@@ -1,0 +1,44 @@
+{
+  "manifestVersion": 5,
+  "id": "com.exifwatermark.plugin",
+  "name": "EXIF 水印",
+  "version": "1.1.0",
+  "main": "index.html",
+  "host": {
+    "app": "PS",
+    "minVersion": "26.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "main",
+      "label": {
+        "default": "EXIF 水印"
+      },
+      "minimumSize": {
+        "width": 260,
+        "height": 400
+      },
+      "maximumSize": {
+        "width": 320,
+        "height": 2000
+      },
+      "preferredDockedSize": {
+        "width": 260,
+        "height": 700
+      }
+    }
+  ],
+  "requiredPermissions": {
+    "allowCodeGenerationFromStrings": false,
+    "launchProcess": {
+      "schemes": [],
+      "extensions": []
+    },
+    "network": {
+      "domains": []
+    }
+  },
+  "author": "Brett Li",
+  "copyright": "Copyright © Brett Li. All Rights Reserved."
+}
