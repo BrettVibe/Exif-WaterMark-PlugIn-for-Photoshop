@@ -1,4 +1,6 @@
-# user/ —— 用户文档
+# Exif-WaterMark-PlugIn-for-Photoshop
+
+Exif 水印插件    
 
 本目录面向最终用户（摄影师、设计师），提供安装指引、使用说明和项目介绍。
 
