@@ -14,6 +14,14 @@ Exif 水印插件
 
 ---
 
+## 下载路径
+
+ [exif-watermark-plugin-v1.1.0.ccx](./release/exif-watermark-plugin-v1.1.0.ccx)
+
+ [exif-watermark-plugin-v1.1.0.zip](./release/exif-watermark-plugin-v1.1.0.zip)
+
+---
+
 ## 快速开始
 
 1. 确认 Photoshop 版本 ≥ 2025（v26.0+）
